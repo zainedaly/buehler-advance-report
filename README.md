@@ -1,0 +1,1 @@
+This is an advance scouting-style report on the Brewers' matchup Walker Buehler in game 4 of the NLDS. It uses publicly available data from Baseball Savant pulled through pybaseball, it includes the regular season through September 26th, and is not affiliated with any club. It includes a total of 2,606 pitches across Walker Buehlers 32 starts.
